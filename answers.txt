@@ -4,7 +4,7 @@ Pro: Agile is more resilint to scope changes in a project than other methods bec
 Con: Iterativeness means it can be hard to predict project timelines and especially budget, since requirements will change dynamically.
 Con: Agile relies very much on feedback from customers, which can lead to longer development times, and relies on the customer to be prompt and communicate with the team routinely.
 
-2. The Scrum Master performs tasks directly related to the Scrum itself, so JIRA tooling, running sprints and meetings, and conducting standups.
+2. The Scrum Master performs tasks directly related to the Scrum itself, so JIRA tooling, running sprints and meetings, and conducting standups. The product owner will set the direction for the team in terms of work, and manage stakeholder relations and release management
 
 3. 
 a) Sprint Planning Meeting: Determine what to complete in the coming sprint, assign stories to the team and move from the backlog to the current sprint
