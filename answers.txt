@@ -10,3 +10,5 @@ Con: Agile relies very much on feedback from customers, which can lead to longer
 a) Sprint Planning Meeting: Determine what to complete in the coming sprint, assign stories to the team and move from the backlog to the current sprint
 b) Daily Scrum: Short meeting happening every day of the sprint, around 10 minutes just to discuss completed work and discuss any blockers and planned work.
 c) Spring retroactive meeting: discuss completed work and move incomplete work to the backlog, and close the sprint out.
+
+4. This is kind of a hierarchy of issue scope. An epic is the largest scope, which is a larger body of work which is broken down into smaller stories to accomplish this overarching goal. The story is a subdivision of the epic which is a system requirement expressed in a few short sentences. A bug is the smallest unit of work, which is just a specific fix or improvement to something as a blocker, not necessarily a larger system requirement. FInally, a task is a smaller piece of work for a developer to work on, typically taken from a story's functional requirement.
