@@ -5,3 +5,8 @@ Con: Iterativeness means it can be hard to predict project timelines and especia
 Con: Agile relies very much on feedback from customers, which can lead to longer development times, and relies on the customer to be prompt and communicate with the team routinely.
 
 2. The Scrum Master performs tasks directly related to the Scrum itself, so JIRA tooli>
+
+3. 
+a) Sprint Planning Meeting: Determine what to complete in the coming sprint, assign stories to the team and move from the backlog to the current sprint
+b) Daily Scrum: Short meeting happening every day of the sprint, around 10 minutes just to discuss completed work and discuss any blockers and planned work.
+c) Spring retroactive meeting: discuss completed work and move incomplete work to the backlog, and close the sprint out.
