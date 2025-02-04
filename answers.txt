@@ -3,3 +3,5 @@ Pro: Agile is an iterative approach, meaning you break a project down into discr
 Pro: Agile is more resilint to scope changes in a project than other methods because of the small team dynamic and collaboration with customers.
 Con: Iterativeness means it can be hard to predict project timelines and especially budget, since requirements will change dynamically.
 Con: Agile relies very much on feedback from customers, which can lead to longer development times, and relies on the customer to be prompt and communicate with the team routinely.
+
+2. The Scrum Master performs tasks directly related to the Scrum itself, so JIRA tooli>
